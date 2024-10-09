@@ -1,0 +1,29 @@
+.light-green {
+  background-color: #03eb7d !important;
+}
+
+.light-green .form-control {
+  background-color: #d4edda;
+}
+
+.light-green .btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+
+#root{
+height:100%
+}
+
+
+
+.custom-blue {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.custom-blue:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
